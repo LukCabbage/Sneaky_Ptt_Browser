@@ -1,4 +1,4 @@
-# Webptt_browser
+# Sneaky_Ptt_Browser
 This program can get the url of certain article on Webptt, which is one of the most popular websites in Taiwan. 
 
 Unlike directly viewing it via web browsers, such as Safari and Chrome, it allows users access desired pages by typing some keywords via terminal. 
@@ -30,5 +30,4 @@ In last part, you can either simultaneously press command and double-click the u
 Well, it's actually not a big deal in programing, but it took a lot of effort due to the reason that this is my first project **!**
 
 However, it indeed solved some problems of mine, for instance, it avoids continually using mouse to move cursor to get the final page that I want.# Sneaky_Ptt_Browser
-# Sneaky_Ptt_Browser
-# Sneaky_Ptt_Browser
+
