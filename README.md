@@ -14,6 +14,12 @@ https://pypi.org/project/requests/
 * lxml install :
 https://pypi.org/project/lxml/
 
+##Required Version
+* Python `3.10`
+* BeautifulSoup4 `4.11.1`
+* requests `2.28.1`
+* lxml `4.9.1`
+
 ## Simple tutorial
 1. `python3 main.py`
 2. type the board name that you want to watch
